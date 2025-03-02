@@ -1,4 +1,4 @@
-lib-package Logger
+package Logger
 
 import (
 	"context"
