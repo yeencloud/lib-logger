@@ -1,10 +1,10 @@
-module github.com/yeencloud/logger
+module github.com/yeencloud/lib-logger
 
 go 1.23
 
 require (
 	github.com/stretchr/testify v1.10.0
-	github.com/yeencloud/shared v0.0.5
+	github.com/yeencloud/lib-shared v0.1.0
 )
 
 require (

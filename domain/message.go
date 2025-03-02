@@ -3,7 +3,7 @@ package LoggerDomain
 import (
 	"context"
 
-	"github.com/yeencloud/shared/log"
+	"github.com/yeencloud/lib-shared/log"
 )
 
 type Message interface {

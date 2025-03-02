@@ -1,11 +1,11 @@
-package Logger
+lib-package Logger
 
 import (
 	"context"
 
-	"github.com/yeencloud/shared/log"
+	"github.com/yeencloud/lib-shared/log"
 
-	"github.com/yeencloud/logger/domain"
+	"github.com/yeencloud/lib-logger/domain"
 )
 
 type StandardMessage struct {

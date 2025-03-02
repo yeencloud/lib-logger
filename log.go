@@ -1,9 +1,9 @@
 package Logger
 
 import (
-	"github.com/yeencloud/shared/log"
+	"github.com/yeencloud/lib-shared/log"
 
-	"github.com/yeencloud/logger/domain"
+	"github.com/yeencloud/lib-logger/domain"
 )
 
 func Log(level LoggerDomain.Level) LoggerDomain.Message {
