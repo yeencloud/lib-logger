@@ -1,4 +1,4 @@
-name: Test library
+name: ${{ github.repository_name }}
 
 on:
   push:
