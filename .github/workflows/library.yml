@@ -1,4 +1,4 @@
-name: ${{ github.repository_name }}
+name: ${{ github.repository }}
 
 on:
   push:
