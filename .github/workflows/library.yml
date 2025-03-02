@@ -1,4 +1,4 @@
-name: ${{ github.repository }}
+name: Test and lint
 
 on:
   push:
